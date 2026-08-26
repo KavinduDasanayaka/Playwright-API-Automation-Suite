@@ -31,7 +31,7 @@ Automated test suite for https://www.saucedemo.com
 ## Execution summary
 <img width="1156" height="682" alt="image" src="https://github.com/user-attachments/assets/2ae1c43f-a352-4919-9428-3ec1b5349af3" />
 
-## Folder Strucuture
+## Folder Structure
 <img width="308" height="448" alt="image" src="https://github.com/user-attachments/assets/12ac9f05-4a66-46e7-8c49-9722eb019fe7" />
 
 
